@@ -1,0 +1,64 @@
+{
+  "update_id": 601997123,
+  "message": {
+    "message_id": 17,
+    "from": {
+      "id": ,
+      "is_bot": false,
+      "first_name": "Alireza x5",
+      "username": "",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": ,
+      "first_name": "Alireza x5",
+      "username": "",
+      "type": "private"
+    },
+    "date": 1758356446,
+    "forward_origin": {
+      "type": "channel",
+      "chat": {
+        "id": -1001152917266,
+        "title": "Proxy Mtproto | \u067e\u0631\u0648\u06a9\u0633\u06cc",
+        "username": "mt_proxyis",
+        "type": "channel"
+      },
+      "message_id": 239215,
+      "date": 1758321129
+    },
+    "forward_from_chat": {
+      "id": -1001152917266,
+      "title": "Proxy Mtproto | \u067e\u0631\u0648\u06a9\u0633\u06cc",
+      "username": "mt_proxyis",
+      "type": "channel"
+    },
+    "forward_from_message_id": 239215,
+    "forward_date": 1758321129,
+    "media_group_id": "14066851573564884",
+    "video": {
+      "duration": 20,
+      "width": 464,
+      "height": 848,
+      "file_name": "IMG_6045.MP4",
+      "mime_type": "video/mp4",
+      "thumbnail": {
+        "file_id": "AAMCBAADGQEAAxFozmPeiNwpFhXpLuC_Pny9ijXo3QACeBcAAkoCaVJBvyS8I6mr_AEAB20AAzYE",
+        "file_unique_id": "AQADeBcAAkoCaVJy",
+        "file_size": 14390,
+        "width": 175,
+        "height": 320
+      },
+      "thumb": {
+        "file_id": "AAMCBAADGQEAAxFozmPeiNwpFhXpLuC_Pny9ijXo3QACeBcAAkoCaVJBvyS8I6mr_AEAB20AAzYE",
+        "file_unique_id": "AQADeBcAAkoCaVJy",
+        "file_size": 14390,
+        "width": 175,
+        "height": 320
+      },
+      "file_id": "BAACAgQAAxkBAAMRaM5j3ojcKRYV6S7gvz58vYo16N0AAngXAAJKAmlSQb8kvCOpq_w2BA",
+      "file_unique_id": "AgADeBcAAkoCaVI",
+      "file_size": 4022567
+    }
+  }
+}

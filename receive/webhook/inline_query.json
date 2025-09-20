@@ -1,0 +1,16 @@
+{
+  "update_id": 601997125,
+  "inline_query": {
+    "id": "353338227953819434",
+    "from": {
+      "id": ,
+      "is_bot": false,
+      "first_name": "Alireza x5",
+      "username": "Alirezax5_org",
+      "language_code": "en"
+    },
+    "chat_type": "sender",
+    "query": "\u0634",
+    "offset": ""
+  }
+}

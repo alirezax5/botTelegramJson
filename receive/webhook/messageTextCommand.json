@@ -1,0 +1,28 @@
+{
+  "update_id": 601997111,
+  "message": {
+    "message_id": 5,
+    "from": {
+      "id": 1,
+      "is_bot": false,
+      "first_name": "Alireza x5",
+      "username": "",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 1,
+      "first_name": "Alireza x5",
+      "username": "",
+      "type": "private"
+    },
+    "date": 1758355742,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
+  }
+}

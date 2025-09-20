@@ -1,0 +1,38 @@
+{
+  "update_id": 601997127,
+  "my_chat_member": {
+    "chat": {
+      "id": ,
+      "first_name": "Alireza x5",
+      "username": "",
+      "type": "private"
+    },
+    "from": {
+      "id": ,
+      "is_bot": false,
+      "first_name": "Alireza x5",
+      "username": "",
+      "language_code": "en"
+    },
+    "date": 1758356768,
+    "old_chat_member": {
+      "user": {
+        "id": 7249609094,
+        "is_bot": true,
+        "first_name": "business assistants",
+        "username": "businessAssistants_bot"
+      },
+      "status": "kicked",
+      "until_date": 0
+    },
+    "new_chat_member": {
+      "user": {
+        "id": 7249609094,
+        "is_bot": true,
+        "first_name": "business assistants",
+        "username": "businessAssistants_bot"
+      },
+      "status": "member"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "update_id": 601997119,
+  "message": {
+    "message_id": 13,
+    "from": {
+      "id": 1,
+      "is_bot": false,
+      "first_name": "Alireza x5",
+      "username": "",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 1,
+      "first_name": "Alireza x5",
+      "username": "",
+      "type": "private"
+    },
+    "date": 1758356398,
+    "audio": {
+      "duration": 133,
+      "file_name": "1563502051_$kinny - Never Snitch \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647.mp3",
+      "mime_type": "audio/mpeg",
+      "title": "Never Snitch \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647",
+      "performer": "$kinny",
+      "file_id": "CQACAgIAAxkBAAMNaM5jrimJOu-_vfdRAQ28vER-uY0AAuUIAALEYDFLhwJiVpfPo0Q2BA",
+      "file_unique_id": "AgAD5QgAAsRgMUs",
+      "file_size": 2209291
+    }
+  }
+}
